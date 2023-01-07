@@ -24,5 +24,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](/1.jpg)
+[Link](url) and ![Image](https://github.com/GUJISONG/gujisong.github.io/blob/dfa1523265e852fc69a3e5606658862addfaec50/0a61f835adeaa727379e094d933d1859.jpg)
 
